@@ -1,0 +1,38 @@
+# Highland — alpine night sky, cloud-white text, golden-meadow light.
+mode = "dark"
+
+accent = "#d9a25f"
+selection = "#253a52"
+muted = "#55697f"
+
+background = "#101b27"
+dark_background = "#0c151f"
+darker_background = "#080f17"
+lighter_background = "#1a2a3b"
+
+foreground = "#dce4ea"
+dark_foreground = "#7e90a3"
+light_foreground = "#c2cdd6"
+bright_foreground = "#f3f6f8"
+
+selection_background = "#253a52"
+selection_foreground = "#f3f6f8"
+
+hyprland_active_border = "rgba(d9a25fee) rgba(8fc6dbee) 45deg"
+hyprland_inactive_border = "rgba(253a52aa)"
+
+red = "#d4735c"
+yellow = "#e6c486"
+orange = "#dd9257"
+green = "#98b384"
+cyan = "#8fc6db"
+blue = "#6fa3d1"
+magenta = "#ab9dcb"
+brown = "#94672f"
+
+bright_red = "#e48c76"
+bright_yellow = "#f0d59f"
+bright_green = "#afc89c"
+bright_cyan = "#acd7e7"
+bright_blue = "#8fbbe2"
+bright_magenta = "#c2b6dc"
